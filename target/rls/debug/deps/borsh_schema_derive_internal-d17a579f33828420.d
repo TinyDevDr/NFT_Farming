@@ -1,0 +1,10 @@
+f:\Samples\Solana\NFT-Farming-main\target\rls\debug\deps\borsh_schema_derive_internal-d17a579f33828420.rmeta: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\helpers.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\enum_schema.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\struct_schema.rs
+
+f:\Samples\Solana\NFT-Farming-main\target\rls\debug\deps\libborsh_schema_derive_internal-d17a579f33828420.rlib: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\helpers.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\enum_schema.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\struct_schema.rs
+
+f:\Samples\Solana\NFT-Farming-main\target\rls\debug\deps\borsh_schema_derive_internal-d17a579f33828420.d: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\helpers.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\enum_schema.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\struct_schema.rs
+
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\lib.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\helpers.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\enum_schema.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\struct_schema.rs:
